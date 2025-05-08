@@ -72,6 +72,11 @@
   .card p{
    width: 270px;
   }
+  .card h2{
+    font-size: 1rem;
+    text-align: start;
+    font-weight: 800;
+  }
   .team{
     border-top: 3px solid var(--red);
   }
