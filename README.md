@@ -8,7 +8,7 @@ Responsive layout using Flexbox, with future improvements planned using CSS Grid
 
 ### Screenshot
 
-![Desktop Screenshot](./screenshot.jpg)
+![Desktop Screenshot](./images/screenshot-desktop.jpg)
 
 ### Links
 
